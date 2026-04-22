@@ -1,0 +1,6 @@
+{
+  "name": "FitLog AI",
+  "description": "Fitness and food tracking dashboard with macronutrient calculation, deterministic insights, and a mocked food database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
